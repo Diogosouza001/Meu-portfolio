@@ -7,10 +7,9 @@ body {
 }
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}  
+  max-width: 100%;
+  box-sizing: border-box;
+}
 
 @media (max-width: 400px) and (height:800px) {
 }
@@ -346,4 +345,5 @@ body > .oioi{
    height: 300px;
 
   }
+
 
