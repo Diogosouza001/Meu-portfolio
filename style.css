@@ -21,6 +21,14 @@ body {
 
   }
 }
+@media (min-width: 350px){
+  .projetos img{
+    width:150px;
+    text-align: center;
+
+  }
+}
+
 
 
 
@@ -345,5 +353,6 @@ body > .oioi{
    height: 300px;
 
   }
+
 
 
